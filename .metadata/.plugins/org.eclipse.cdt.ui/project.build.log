@@ -1,0 +1,9 @@
+12:46:14 **** Incremental Build of configuration Nios II for project project ****
+make all 
+Info: Building C:/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/project_bsp/
+C:/Programmes/FPGA/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C C:/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/project_bsp/
+[BSP build complete]
+[project build complete]
+
+12:46:18 Build Finished (took 3s.365ms)
+

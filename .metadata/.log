@@ -1,0 +1,161 @@
+!SESSION 2019-06-03 10:10:06.254 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_CH
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/programmes/fpga/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/programmes/fpga/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-06-03 10:12:41.832
+!MESSAGE Indexed 'project_bsp' (86 sources, 70 headers) in 2.85 sec: 1 502 declarations; 3 534 references; 122 unresolved inclusions; 6 syntax errors; 229 unresolved names (4.3 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-06-03 10:12:48.681
+!MESSAGE Indexed 'project' (1 sources, 0 headers) in 0.014 sec: 1 declarations; 1 references; 1 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+!SESSION 2019-06-03 10:34:09.033 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_CH
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/programmes/fpga/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -pluginCustomization C:/programmes/fpga/nios2eds/bin/eclipse_nios2/plugin_customization.ini
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-06-03 10:34:13.251
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:38:37.606
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:38:40.160
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:41:20.503
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:41:23.370
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:45:25.584
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:45:26.343
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:45:29.171
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:46:46.161
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:46:46.870
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:46:49.401
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:50:41.623
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:50:42.420
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:50:44.954
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:52:12.609
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:52:13.430
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:52:16.068
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:52:51.240
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:52:52.010
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 10:52:54.685
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:01:47.723
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:01:48.388
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:01:51.097
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:02:56.067
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:02:56.752
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:02:59.268
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:19:57.236
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:19:58.061
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:20:00.798
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:24:08.074
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:24:08.780
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:24:11.305
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:27:11.038
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:27:11.801
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:27:14.419
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:32:09.472
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:32:10.280
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:32:13.120
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:41:32.786
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:41:33.625
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:41:36.857
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:44:25.072
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:44:25.825
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 11:44:28.365
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 12:46:18.615
+!MESSAGE Terminated Launch with connection: 20DE-SoC on localhost [USB-1]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 12:46:19.339
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --stop --sidp=0x8081190 --timestamp=1559545279]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2019-06-03 12:46:22.132
+!MESSAGE Executing: [C:/programmes/fpga/quartus\bin64\cygwin\bin\bash.exe, -c, nios2-download '--cable=DE-SoC on localhost [USB-1]' --device=2 --instance=0 --go --sidp=0x8081190 --timestamp=1559545279 /cygdrive/c/Users/smail/Desktop/College/MA2/Real_Time_Embedded_Systems/final_projectCCC/sw/nios/application/project.elf]
